@@ -8,4 +8,4 @@ This is the mini project setup containing:
 
 ## Folder Structure
 
-This setup is part of the Kalvium Docker Module Mini Project - 1
+This setup is part of the Kalvium Docker Module Mini Project - 1 and 2
